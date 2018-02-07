@@ -1,0 +1,658 @@
+fileFormatVersion: 2
+guid: b71e1fcb1548ce9469813f67e8316448
+timeCreated: 1516508033
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: socks_0
+    21300002: socks_1
+    21300004: socks_2
+    21300006: socks_3
+    21300008: socks_4
+    21300010: socks_5
+    21300012: socks_6
+    21300014: socks_7
+    21300016: socks_8
+    21300018: socks_9
+    21300020: socks_10
+    21300022: socks_11
+    21300024: socks_12
+    21300026: socks_13
+    21300028: socks_14
+    21300030: socks_15
+    21300032: socks_16
+    21300034: socks_17
+    21300036: socks_18
+    21300038: socks_19
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 150
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: socks_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 731
+        width: 225
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: socks_1
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 731
+        width: 226
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: socks_2
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 731
+        width: 226
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: socks_3
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 731
+        width: 225
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: socks_4
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 731
+        width: 226
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: socks_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 487
+        width: 225
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: socks_6
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 487
+        width: 226
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: socks_7
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 487
+        width: 226
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: socks_8
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 487
+        width: 225
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: socks_9
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 487
+        width: 226
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: socks_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 243
+        width: 225
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: socks_11
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 243
+        width: 226
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: socks_12
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 243
+        width: 226
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: socks_13
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 243
+        width: 225
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: socks_14
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 243
+        width: 226
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: socks_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 225
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: socks_16
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 0
+        width: 226
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: socks_17
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 0
+        width: 226
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: socks_18
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 0
+        width: 225
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: socks_19
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 0
+        width: 226
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline:
+    - - {x: -488, y: -250}
+      - {x: -490, y: -252}
+      - {x: -510, y: -362}
+      - {x: -511, y: -380}
+      - {x: -583, y: -380}
+      - {x: -586, y: -398}
+      - {x: -600, y: -400}
+      - {x: -600, y: -461}
+      - {x: -584, y: -478}
+      - {x: -410, y: -478}
+      - {x: -373, y: -441}
+      - {x: -373, y: -252}
+      - {x: -375, y: -250}
+    - - {x: -129, y: -250}
+      - {x: -249, y: -250}
+      - {x: -266, y: -362}
+      - {x: -267, y: -380}
+      - {x: -339, y: -380}
+      - {x: -359, y: -399}
+      - {x: -359, y: -459}
+      - {x: -340, y: -478}
+      - {x: -166, y: -478}
+      - {x: -148, y: -459}
+      - {x: -131, y: -443}
+      - {x: -129, y: -441}
+    - - {x: 115, y: -252}
+      - {x: 113, y: -250}
+      - {x: -3, y: -250}
+      - {x: -24, y: -362}
+      - {x: -23, y: -380}
+      - {x: -95, y: -380}
+      - {x: -115, y: -402}
+      - {x: -115, y: -459}
+      - {x: -96, y: -478}
+      - {x: 77, y: -478}
+      - {x: 96, y: -459}
+      - {x: 113, y: -443}
+      - {x: 115, y: -441}
+    - - {x: 356, y: -250}
+      - {x: 243, y: -250}
+      - {x: 241, y: -252}
+      - {x: 221, y: -362}
+      - {x: 220, y: -380}
+      - {x: 148, y: -380}
+      - {x: 129, y: -399}
+      - {x: 129, y: -459}
+      - {x: 131, y: -461}
+      - {x: 147, y: -478}
+      - {x: 321, y: -478}
+      - {x: 358, y: -441}
+      - {x: 358, y: -252}
+    - - {x: 487, y: -250}
+      - {x: 485, y: -252}
+      - {x: 465, y: -362}
+      - {x: 464, y: -380}
+      - {x: 392, y: -380}
+      - {x: 372, y: -402}
+      - {x: 372, y: -459}
+      - {x: 391, y: -478}
+      - {x: 565, y: -478}
+      - {x: 583, y: -459}
+      - {x: 600, y: -443}
+      - {x: 600, y: -250}
+    - - {x: -375, y: -7}
+      - {x: -488, y: -7}
+      - {x: -490, y: -9}
+      - {x: -510, y: -118}
+      - {x: -511, y: -136}
+      - {x: -583, y: -136}
+      - {x: -600, y: -153}
+      - {x: -600, y: -218}
+      - {x: -584, y: -235}
+      - {x: -582, y: -237}
+      - {x: -412, y: -237}
+      - {x: -391, y: -220}
+      - {x: -373, y: -201}
+      - {x: -373, y: -9}
+    - - {x: -131, y: -7}
+      - {x: -244, y: -7}
+      - {x: -246, y: -9}
+      - {x: -266, y: -118}
+      - {x: -267, y: -136}
+      - {x: -339, y: -136}
+      - {x: -359, y: -156}
+      - {x: -359, y: -216}
+      - {x: -338, y: -237}
+      - {x: -164, y: -237}
+      - {x: -146, y: -217}
+      - {x: -129, y: -197}
+      - {x: -129, y: -9}
+    - - {x: 115, y: -9}
+      - {x: 113, y: -7}
+      - {x: -3, y: -7}
+      - {x: -24, y: -118}
+      - {x: -23, y: -136}
+      - {x: -95, y: -136}
+      - {x: -100, y: -154}
+      - {x: -115, y: -157}
+      - {x: -115, y: -216}
+      - {x: -113, y: -218}
+      - {x: -99, y: -237}
+      - {x: 80, y: -237}
+      - {x: 96, y: -216}
+      - {x: 115, y: -197}
+    - - {x: 358, y: -201}
+      - {x: 358, y: -9}
+      - {x: 356, y: -7}
+      - {x: 243, y: -7}
+      - {x: 241, y: -9}
+      - {x: 221, y: -118}
+      - {x: 220, y: -136}
+      - {x: 148, y: -136}
+      - {x: 129, y: -152}
+      - {x: 129, y: -221}
+      - {x: 149, y: -237}
+      - {x: 319, y: -237}
+      - {x: 321, y: -235}
+      - {x: 321, y: -218}
+      - {x: 339, y: -220}
+    - - {x: 485, y: -7}
+      - {x: 463, y: -118}
+      - {x: 464, y: -136}
+      - {x: 392, y: -136}
+      - {x: 387, y: -154}
+      - {x: 372, y: -157}
+      - {x: 372, y: -216}
+      - {x: 393, y: -237}
+      - {x: 567, y: -237}
+      - {x: 585, y: -217}
+      - {x: 600, y: -200}
+      - {x: 600, y: -7}
+    - - {x: -375, y: 237}
+      - {x: -488, y: 237}
+      - {x: -490, y: 235}
+      - {x: -510, y: 125}
+      - {x: -511, y: 108}
+      - {x: -583, y: 108}
+      - {x: -600, y: 91}
+      - {x: -600, y: 26}
+      - {x: -584, y: 9}
+      - {x: -582, y: 7}
+      - {x: -412, y: 7}
+      - {x: -391, y: 24}
+      - {x: -373, y: 42}
+      - {x: -373, y: 235}
+    - - {x: -131, y: 237}
+      - {x: -244, y: 237}
+      - {x: -246, y: 235}
+      - {x: -266, y: 125}
+      - {x: -267, y: 108}
+      - {x: -339, y: 108}
+      - {x: -342, y: 89}
+      - {x: -359, y: 90}
+      - {x: -359, y: 26}
+      - {x: -357, y: 26}
+      - {x: -341, y: 7}
+      - {x: -162, y: 7}
+      - {x: -146, y: 27}
+      - {x: -129, y: 46}
+      - {x: -129, y: 235}
+    - - {x: 115, y: 235}
+      - {x: 113, y: 237}
+      - {x: -1, y: 237}
+      - {x: -3, y: 235}
+      - {x: -22, y: 125}
+      - {x: -23, y: 108}
+      - {x: -95, y: 108}
+      - {x: -115, y: 85}
+      - {x: -115, y: 28}
+      - {x: -94, y: 7}
+      - {x: 79, y: 7}
+      - {x: 115, y: 42}
+    - - {x: 358, y: 46}
+      - {x: 358, y: 235}
+      - {x: 356, y: 237}
+      - {x: 243, y: 237}
+      - {x: 241, y: 235}
+      - {x: 221, y: 125}
+      - {x: 220, y: 108}
+      - {x: 148, y: 108}
+      - {x: 129, y: 92}
+      - {x: 129, y: 23}
+      - {x: 149, y: 7}
+      - {x: 319, y: 7}
+    - - {x: 487, y: 237}
+      - {x: 485, y: 235}
+      - {x: 465, y: 125}
+      - {x: 464, y: 108}
+      - {x: 392, y: 108}
+      - {x: 389, y: 89}
+      - {x: 374, y: 87}
+      - {x: 372, y: 85}
+      - {x: 372, y: 28}
+      - {x: 390, y: 7}
+      - {x: 569, y: 7}
+      - {x: 585, y: 27}
+      - {x: 600, y: 43}
+      - {x: 600, y: 237}
+    - - {x: -373, y: 478}
+      - {x: -490, y: 478}
+      - {x: -510, y: 369}
+      - {x: -511, y: 351}
+      - {x: -583, y: 351}
+      - {x: -586, y: 333}
+      - {x: -600, y: 331}
+      - {x: -600, y: 269}
+      - {x: -582, y: 251}
+      - {x: -412, y: 251}
+      - {x: -410, y: 253}
+      - {x: -392, y: 267}
+      - {x: -373, y: 286}
+    - - {x: -129, y: 478}
+      - {x: -246, y: 478}
+      - {x: -266, y: 369}
+      - {x: -267, y: 351}
+      - {x: -339, y: 351}
+      - {x: -342, y: 333}
+      - {x: -357, y: 331}
+      - {x: -359, y: 329}
+      - {x: -359, y: 267}
+      - {x: -342, y: 251}
+      - {x: -168, y: 251}
+      - {x: -129, y: 290}
+    - - {x: 115, y: 290}
+      - {x: 115, y: 478}
+      - {x: -3, y: 478}
+      - {x: -22, y: 369}
+      - {x: -23, y: 351}
+      - {x: -95, y: 351}
+      - {x: -99, y: 334}
+      - {x: -115, y: 331}
+      - {x: -115, y: 267}
+      - {x: -98, y: 251}
+      - {x: 75, y: 251}
+      - {x: 77, y: 253}
+      - {x: 94, y: 269}
+    - - {x: 358, y: 478}
+      - {x: 241, y: 478}
+      - {x: 221, y: 369}
+      - {x: 220, y: 351}
+      - {x: 148, y: 351}
+      - {x: 129, y: 332}
+      - {x: 129, y: 271}
+      - {x: 149, y: 251}
+      - {x: 319, y: 251}
+      - {x: 321, y: 253}
+      - {x: 339, y: 267}
+      - {x: 358, y: 286}
+    - - {x: 600, y: 478}
+      - {x: 485, y: 478}
+      - {x: 465, y: 369}
+      - {x: 464, y: 351}
+      - {x: 392, y: 351}
+      - {x: 389, y: 333}
+      - {x: 372, y: 334}
+      - {x: 372, y: 264}
+      - {x: 389, y: 251}
+      - {x: 563, y: 251}
+      - {x: 583, y: 267}
+      - {x: 585, y: 286}
+      - {x: 600, y: 288}
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

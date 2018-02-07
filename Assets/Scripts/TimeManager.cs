@@ -10,6 +10,7 @@ public class TimeManager : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
+		GameState.StartGame ();
 		timeLeft = totalTime;
 	}
 	
@@ -17,5 +18,14 @@ public class TimeManager : MonoBehaviour {
 	void FixedUpdate () {
 		timeLeft -= Time.deltaTime;
 		timeText.text = ((int)timeLeft).ToString ();
+
+		if (timeLeft <= totalTime / 3) {
+			GameState.MoveDog ();
+		}
+
+		if (timeLeft <= 0) {
+			enabled = false;
+			GameState.EndGame ();
+		}
 	}
 }

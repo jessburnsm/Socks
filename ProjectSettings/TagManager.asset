@@ -48,3 +48,12 @@ TagManager:
   - name: Super Foreground
     uniqueID: 2380519497
     locked: 0
+  - name: Face
+    uniqueID: 746670375
+    locked: 0
+  - name: Cookie
+    uniqueID: 4275301303
+    locked: 0
+  - name: UI Elements
+    uniqueID: 3941462805
+    locked: 0

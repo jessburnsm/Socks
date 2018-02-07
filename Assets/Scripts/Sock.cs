@@ -19,4 +19,10 @@ public class Sock : MonoBehaviour {
 	void Start () {
 		gameObject.GetComponent<SpriteRenderer> ().flipX = rightSock; 
 	}
+
+	void OnBecameInvisible() {
+		// If a sock leaves the game area, remove it
+		Destroy (gameObject);
+		GameState.RemoveSock ();
+	}
 }

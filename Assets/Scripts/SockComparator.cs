@@ -12,9 +12,12 @@ public class SockComparator : MonoBehaviour {
 	}
 
 	void OnTriggerEnter2D(Collider2D obj){
-		if(obj.CompareTag("Sock")){
+		if (obj.CompareTag ("Sock")) {
 			socks.Add (obj.gameObject.GetComponent<Sock> ());
 			CompareSocks ();
+		} 
+		else {
+			Dispose (obj.gameObject.GetComponent<Rigidbody2D> ());
 		}
 	}
 
@@ -23,17 +26,15 @@ public class SockComparator : MonoBehaviour {
 	}
 
 	void CompareSocks(){
-		Debug.Log (socks.Count);
 		// pull first and second sock from list
 		if (socks.Count >= 2) {
 			if (socks [0].GetSockColor () == socks [1].GetSockColor ()) {
 				Debug.Log ("Socks Matched");
 				faceManager.SetSmile ();
-				// Increase Score
+				GameState.UpdateScore ();
 				DestroySocks(socks [0], socks [1]);
 			} 
 			else {
-				Debug.Log ("Socks Mismatched");
 				faceManager.SetFrown ();
 				DisposeSocks ();
 			}
@@ -53,5 +54,9 @@ public class SockComparator : MonoBehaviour {
 			Rigidbody2D rb2d = sock.gameObject.GetComponent<Rigidbody2D> ();
 			rb2d.AddForce (new Vector2 (-100, 1200));
 		}
+	}
+
+	private void Dispose(Rigidbody2D rb2d){
+		rb2d.AddForce (new Vector2 (-100, 1200));
 	}
 }
